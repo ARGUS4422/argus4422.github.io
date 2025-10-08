@@ -10,24 +10,32 @@ order: 5
 
   <div class="cert-item">
     <a href="https://www.credly.com/badges/3c0e83d7-5d13-4e9e-ba5d-64eb99340565/public_url" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/NetworkDefenseUpdate20251008-31-y9oh1z.pdf" alt="Cisco Network Defense Certificate">
+      <img src="/assets/img/network-defense.png" alt="Cisco Network Defense Certificate">
       <p><strong>Cisco Network Defense Certificate</strong></p>
     
   </div>
 
   <div class="cert-item">
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CY5B85PKGP.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/THM-CY5B85PKGP-JPT.pdf" alt="Jr Penetration Tester">
+      <img src="/assets/img/JPT.png" alt="Jr Penetration Tester">
       <p><strong>Jr Penetration Tester</strong></p>
     
   </div>
 
-  <div class="cert-item">
+   <div class="cert-item">
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-8LEUYSGPQW.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/THM-8LEUYSGPQW-DEVSECOPS.pdf" alt="DevSecOps">  
+      <img src="/assets/img/devsecops.png" alt="DevSecOps">
       <p><strong>DevSecOps</strong></p>
-    
+
   </div>
+
+   <div class="cert-item">
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-URMETJYVJ2.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/securityeng.png" alt="Security Engineer">
+      <p><strong>Security Engineer</strong></p>
+
+  </div>
+
 
 </div>
 
