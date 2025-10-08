@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe: Voyage"
-author: jaxafed
+author: mitcheka
 categories: [TryHackMe]
 tags: [linux, web, joomla, cms, ssh, docker, container, port forwarding, insecure deserialization, container escape, sys_module, rce]
 render_with_liquid: false
