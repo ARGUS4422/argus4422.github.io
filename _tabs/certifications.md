@@ -4,7 +4,7 @@ icon: fas fa-certificate
 order: 5
 ---
 
-## My Certifications
+
 
 <div class="cert-grid">
 
