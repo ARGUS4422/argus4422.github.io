@@ -10,8 +10,8 @@ order: 5
 
   <div class="cert-item">
     <a href="https://www.credly.com/badges/3c0e83d7-5d13-4e9e-ba5d-64eb99340565/public_url" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/network-defense.png" alt="Cisco Network Defense Certificate">
-      <p><strong>Cisco Network Defense Certificate</strong></p>
+      <img src="/assets/img/netdef.png" alt="Cisco Network Defense Certificate">
+      <p><strong>Cisco Network Defense</strong></p>
     
   </div>
 
@@ -35,7 +35,19 @@ order: 5
       <p><strong>Security Engineer</strong></p>
 
   </div>
+   <div class="cert-item">
+    <a href="https://www.credly.com/badges/74095f47-348c-4fbb-8d55-20d4c7939990/public_url" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/netbasics.png" alt="Networking">
+      <p><strong>Networking Basics</strong></p>
 
+  </div>
+
+   <div class="cert-item">
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RSQZIQEBHN.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/cybersecurity101.png" alt="Networking">
+      <p><strong>Cyber Security 101</strong></p>
+
+  </div>
 
 </div>
 
