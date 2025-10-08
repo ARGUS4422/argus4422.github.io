@@ -28,7 +28,8 @@ baseurl: ""
 
 github:
   username: ARGUS4422 # change to your github username
-
+linkedin:
+  username: mitchelle-wekesa
 
 social:
   # Change to your full name.
