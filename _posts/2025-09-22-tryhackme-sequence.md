@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe: Sequence"
-author: jaxafed
+author: mitcheka
 categories: [TryHackMe]
 tags: [linux, web, php, xss, stored xss, javascript, csrf, insecure file upload, rce, docker, container escape, privilege escalation]
 render_with_liquid: false
